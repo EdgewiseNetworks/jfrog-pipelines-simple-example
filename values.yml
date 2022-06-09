@@ -1,3 +1,3 @@
 myRepo:
-  gitProvider: my_github
-  path: jfrog/jfrog-pipelines-simple-example
+  gitProvider: zwsGithub
+  path: EdgewiseNetworks/jfrog-pipelines-simple-example
